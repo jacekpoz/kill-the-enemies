@@ -1,0 +1,7 @@
+.ccls-cache
+build/
+release/
+Debug/
+Release/
+
+res/images2/
